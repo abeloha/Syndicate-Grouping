@@ -1,7 +1,7 @@
 ![Preview](/screenshots/login.png?raw=true "Preview")
 
 # About Syndicate Multiparameter Grouping
-This software was developed for Armed Forces Command and Staff College, AFCSC, Jaji, Nigeria to group their students in syndicates based on multiparameter. The project was written in python and the 
+This software was developed for Armed Forces Command and Staff College, AFCSC, Jaji, Nigeria to group their students in syndicates based on multiparameter. The project was written in python and the UI in PyQt5
 
 ## Testing
 run main.py
