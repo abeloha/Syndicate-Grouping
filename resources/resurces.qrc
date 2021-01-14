@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="image">
+    <file>icon.png</file>
+    <file>white.png</file>
+    <file>s1.png</file>
+    <file>s2.png</file>
+    <file>syn.png</file>
+    <file>bg1.jpg</file>
+    <file>user.png</file>
+    <file>folder.png</file>
+    <file>photo.png</file>
+    <file>search.png</file>
+  </qresource>
+</RCC>
